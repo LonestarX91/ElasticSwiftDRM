@@ -1,0 +1,5 @@
+coverage:
+  ignore:
+    - Tests/*
+    - Tests/**/*
+    - Tests/.*
